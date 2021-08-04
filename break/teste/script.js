@@ -16,7 +16,7 @@ function retornaFuncao(nome) {
   };
 }
 
-const funcao = retornaFuncao('Cleverson');
+//const funcao = retornaFuncao('Cleverson');
 const funcao2 = retornaFuncao('Rocha');
 console.log(funcao);
 console.log(funcao2);
